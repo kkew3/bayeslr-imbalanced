@@ -1,4 +1,4 @@
-# Learn imbalanced data with Bayesian Logistic regression
+# Learn Bayesian Logistic regression from imbalanced data
 
 This repo is the codebase for [my post](https://kkew3.github.io/2024/05/17/learn-bayesian-lr-from-imbalanced-data.html).
 
